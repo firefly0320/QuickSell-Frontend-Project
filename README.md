@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kanban Board App
 
 ## Overview
@@ -63,3 +64,6 @@ This project is a Kanban board application built using ReactJS. It allows users 
 
 5. **Access the Application:**
    Open your browser and go to `http://localhost:3000`.
+=======
+# QuickSell-Frontend-Project
+>>>>>>> 3bebbb4a77d0bc6793c1ad0a2951f6f807de3955
